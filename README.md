@@ -96,6 +96,7 @@ Curated list of Uzbek Telegram dev groups
 - [@telebot_uz](https://t.me/telebot_uz)
 - [@aiogram_uz](https://t.me/aiogram_uz)
 - [@UzBotsGroup](https://t.me/UzBotsGroup)
+- [@eth_dev_uz](https://t.me/eth_dev_uz)
   
 ## Algorithm & Data structure
 
